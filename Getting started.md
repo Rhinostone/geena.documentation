@@ -2,8 +2,6 @@ Getting started
 ---------------
 ---------------
 
-> http://daringfireball.net/projects/markdown/basics
-
 Please, note that the document is still in progress.
 
 ### What is Geena ?
@@ -41,11 +39,8 @@ same time.
 
 What is a project ?
 
-What is a bundle (application) ?
+What is a bundle ?
 
-What is a module ?
-
-What is an Addon/Plugin
 
 ## Installing Geena
 
