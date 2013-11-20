@@ -177,6 +177,12 @@ Failed connect to github.com:80; Operation timed out
 If you getting this message, I guess it's a yes.
 
 Now that you are not any more behind one, There is 2 choices
+
+Maybe you need to set a proxy in your global
+Edit your github globals (proxy): http://stackoverflow.com/questions/5529218/how-to-use-git-behind-a-proxy 
+
+Or, maybe you already have setttings from a previous configuration.. it's happens when you switch from work => home.
+
 1. Remove the proxy form your network connection
 2. Change your git remote origin
 
