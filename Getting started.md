@@ -10,7 +10,7 @@ Please, note that the document is still in progress.
 
 Main  purpose: Generate easier and faster  new applications.
 
-Node.js(85%), git(10%), ruby(5%)
+Node.js(90%), git(10% - optional)
 
 
 
